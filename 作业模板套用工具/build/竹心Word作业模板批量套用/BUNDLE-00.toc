@@ -1,0 +1,3 @@
+([('竹心Word作业模板批量套用',
+   '/Users/ywlukiya/Desktop/工作/作业模板套用工具/dist/竹心Word作业模板批量套用',
+   'EXECUTABLE')],)
